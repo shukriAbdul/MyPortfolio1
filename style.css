@@ -21,7 +21,8 @@ background-color:whitesmoke
 }
 .Header_prnt{
     height: 100vh;
-    background-color: #000000f1 ;
+    background-color: #1b2458f1 ;
+    background-color: rgb(8, 43, 85);
     background-image: url("images/hal.jpeg") ;
   background-size: cover;
   background-blend-mode: darken;
@@ -114,7 +115,7 @@ color: orange;
   top: 60px;
   width: 300px;
   height: 0;
-  background-color: rgb(34, 39, 41) ;
+  background-color: rgb(8, 43, 85);
   backdrop-filter: blur(10px);
   border-radius: 10px;
   overflow: hidden;
@@ -162,7 +163,7 @@ color: white;
 
 .section_about{
   margin-top: 22px;
-  background-color: rgb(34, 39, 41) ;
+  background-color: rgb(8, 43, 85);
   height: 300px;
 }
 #Prt2{
@@ -212,7 +213,7 @@ display: flex;
   box-shadow: 3px 3px 20px -5px  rgb(0, 0, 0);
 }
 .icn{
-  background-color: rgb(34, 39, 41) ;
+  background-color: rgb(8, 43, 85);
   padding: 22px;
 
 
@@ -226,11 +227,11 @@ display: flex;
 
 .fa-square-envelope{
   font-size: 32px;
-  color:  rgb(61, 74, 79);
+  background-color: rgb(8, 43, 85);
 }
 .fa-brands{
   font-size: 32px;
-  color:  rgb(61, 74, 79);
+  color:  rgb(8, 43, 85);
 }
 
 /* part40000 */
@@ -252,7 +253,7 @@ display: flex;
 }
 .foter{
   margin-top: 5rem;
-  background-color: rgb(34, 39, 41) ;
+  background-color: rgb(8, 43, 85);
   padding: 20px;
   justify-content: center;
   text-align: center;
@@ -263,7 +264,7 @@ display: flex;
 .partOne{
   color: white;
   border-radius: 12px;
-  background-color: rgb(34, 39, 41) ;
+  background-color: rgb(18, 55, 99);
   width: 500px;
   height: 500px;
   padding-bottom: 30px;
@@ -303,7 +304,7 @@ display: flex;
 
 
 #contact{
-  background-color: rgb(34, 39, 41) ;
+  background-color: rgb(8, 43, 85);
   height: 200px;
   margin-top: 50px;
 }
@@ -398,7 +399,7 @@ section#hero{
   }
   .text_prnt p{
     width: 100%;
-    font-size: 15px;
+    font-size: 13px;
   }
   .box_parent{
     display: flex;
