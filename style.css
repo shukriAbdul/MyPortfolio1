@@ -393,8 +393,12 @@ section#hero{
   border-radius: 12px;
   box-shadow: 5px 5px 25px 0.5px rgb(0, 0, 0);
   margin-top: 15rem;
-  margin-left: 43px;
-  width: 80%;
+  margin-left: 11px;
+  width: 95%;
+  }
+  .text_prnt p{
+    width: 100%;
+    font-size: 15px;
   }
   .box_parent{
     display: flex;
@@ -409,7 +413,7 @@ section#hero{
   .img_prnt{
     display: flex;
     flex-direction: column;
-    padding-left: 2rem;
+    padding-left: 1.5rem;
   }
   #contact{
     height: 500px;
