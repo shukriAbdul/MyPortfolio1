@@ -21,9 +21,9 @@ background-color:whitesmoke
 }
 .Header_prnt{
     height: 100vh;
-    background-color: #1b2458f1 ;
-    background-color: rgb(8, 43, 85);
-    background-image: url("images/hal.jpeg") ;
+    background-color: #1b2458f5 ;
+    /* background-color: rgb(8, 43, 85); */
+    background-image: url("images/b2.jpg") ;
   background-size: cover;
   background-blend-mode: darken;
 
@@ -264,7 +264,7 @@ display: flex;
 .partOne{
   color: white;
   border-radius: 12px;
-  background-color: rgb(18, 55, 99);
+  background-color: rgb(8, 43, 85);
   width: 500px;
   height: 500px;
   padding-bottom: 30px;
